@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">projectMail</string>
+    <string name="correo">ingrese correo</string>
+    <string name="enviar">enviar</string>
+</resources>
