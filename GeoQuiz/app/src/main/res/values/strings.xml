@@ -3,4 +3,5 @@
     <string name="question_1">¿Es Lima la capital de Perú?</string>
     <string name="yes">Si</string>
     <string name="no">No</string>
+    <string name="next">SIguiente</string>
 </resources>
