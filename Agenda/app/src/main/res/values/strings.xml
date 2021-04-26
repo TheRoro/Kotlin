@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Agenda</string>
+    <string name="nombre">Nombre</string>
+    <string name="telf">Telf.</string>
+    <string name="ingrese_nombre">Ingrese nombre</string>
+    <string name="ingrese_tel_fono">Ingrese teléfono</string>
+    <string name="guardar">Guardar</string>
+    <string name="erase">Erase</string>
+</resources>
